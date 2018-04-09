@@ -6,7 +6,7 @@
 package tp1;
 
 import java.util.Scanner;
-ggghh
+ggghh****
 /**
  *
  * @author solen
